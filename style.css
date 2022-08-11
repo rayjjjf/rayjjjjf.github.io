@@ -1,0 +1,108 @@
+/* bande */
+#bande{
+    width:1345px;
+    height:90px;
+    background-color:#ffea88;
+    border:#ffea88 solid;
+    border-radius:10px;
+    position:fixed;
+}
+#appname{
+    font-family:"Dancing Script";
+    font-size:50px;
+    position:relative;
+    left:50px;
+    top:-40px;
+}
+
+/*   apk   */
+#apk{
+    width:1300px;
+    font-family:"Roboto";
+    font-weight:bold;
+    font-size:30px;
+    border-bottom:solid;
+    border-width:1px;
+    padding:10px;
+}
+#apks{
+    height:58px;
+}
+#fleche1{
+    position:relative;
+    left:1280px;
+    top:-80px;
+}
+#apks:hover{
+    box-shadow: 2px 4px 5px grey;
+}
+
+/*   exe   */
+#exe{
+    width:1300px;
+    font-family:"Roboto";
+    font-weight:bold;
+    font-size:30px;
+    border-bottom:solid;
+    border-width:1px;
+    padding:10px;
+}
+#exes{
+    height:58px;
+}
+#exes:hover{
+    box-shadow: 2px 4px 5px grey;
+}
+#fleche2{
+    position:relative;
+    left:1280px;
+    top:-80px;
+}
+#img1{
+    border:solid;
+    border-width:1px;
+}
+#img1:hover{
+    box-shadow:2px 2px 5px grey;
+}
+#img2{
+    border:solid;
+    border-width:1px;
+}
+#img2:hover{
+    box-shadow:2px 2px 5px grey;
+}
+#img3{
+    border:solid;
+    border-width:1px;
+}
+#img3:hover{
+    box-shadow:2px 2px 5px grey;
+}
+#img4{
+    border:solid;
+    border-width:1px;
+}
+#img4:hover{
+    box-shadow:2px 2px 5px grey;
+}
+#img5{
+    border:solid;
+    border-width:1px;
+}
+#img5:hover{
+    box-shadow:2px 2px 5px grey;
+}
+#img6{
+    border:solid;
+    border-width:1px;
+}
+#img6:hover{
+    box-shadow:2px 2px 5px grey;
+}
+
+/* -------------------- */
+.m{
+    font-color:white;
+}
+

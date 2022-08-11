@@ -1,0 +1,38 @@
+#img{
+    position:relative;
+    left:550px;
+}
+
+#name{
+    height:100px;
+    font-family:"Arial";
+    font-size:50px;
+}
+#namme{
+    position:relative;
+    left:30px;
+}
+
+#imgg{
+    position:relative;
+    left:1250px;
+    top:-120px
+}
+#description{
+    font-size:40px;
+}
+#button{
+    font-family:Bitter;
+    font-size:60px;
+    background-color:#8bc34a;
+    font-weight:bold;
+    padding:10px;
+    border-color:green;
+    border-width:3px;
+    position:relative;
+    left:500px;
+    top:20px;
+}
+#button:hover{
+    box-shadow: 4px 4px 5px grey;
+}
